@@ -2,7 +2,8 @@
 
 **Project Description:** 
 
-The Personal Finance Management System is a web-based application designed to help individuals manage their finances effectively. The system allows users to track their income and expenses, create and manage budgets, and set financial goals.
+The Personal Finance Tracker System is a web-based application designed to help individuals manage their finances effectively. 
+The system allows users to track their income and expenses, create and manage budgets, and set financial goals.
 
 **Name Of Team Members**
 
