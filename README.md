@@ -9,7 +9,7 @@ The system allows users to track their income and expenses, create and manage bu
 
 1. Shivani Keshav Shinde
 2. Diksha Vilas Patil
-3.  Karan Sampat Mandlik
+3. Karan Sampat Mandlik
 4. Mansi Rajendra Iste  
 
 **Project Phase**
